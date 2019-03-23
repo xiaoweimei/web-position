@@ -1,6 +1,6 @@
 # web-position
 ### 哪些知识变得不重要了
-1. css布局 只要学会flex就行了
+1. css布局 只要学会flex就行了 辅以position、transition、animation、transform
 2. IE兼容性 不要学习IE兼容
 3. jQuery 过时的象征
 4. seajs、requirejs等库 不需要学习
