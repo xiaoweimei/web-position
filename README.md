@@ -1,6 +1,8 @@
 # web-position
 ### HTML
 - div、input、span、mata精学，其他标签稍微看一看即可
+### HTML
+- can I use属性查看网站\css 属性 generator可视化生成代码\
 ### 哪些知识变得不重要了
 1. css布局 只要学会flex就行了 辅以position、transition、animation、transform
 2. IE兼容性 不要学习IE兼容
